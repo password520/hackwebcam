@@ -8,7 +8,7 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m  ____              \e[0m\e[1;77m ____ _                          \e[0m\n"
+printf "\e[1;92m  ____       هک وبکم       \e[0m\e[1;77m ____ _                          \e[0m\n"
 printf "\e[1;92m / ___rjdjd _ _   _ \e[0m\e[1;77m/ ___| rjjddj_   ___  ___  ___  ___  \e[0m\n"
 printf "\e[1;92m \___ \ / _\` | | | \e[0m\e[1;77m| |   | '_ \ / _ \/ _ \/ __|/ _ \ \e[0m\n"
 printf "\e[1;92m  ___)ehdhd_| | |_| |\e[0m\e[1;77m |___| | | |  __/  __/\__ \  __/ \e[0m\n"
