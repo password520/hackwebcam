@@ -9,7 +9,7 @@ banner() {
 
 
 
-
+printf "\e[1;92m     \e[0m\e
 
 printf "\e[1;92m 𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈\e[0m\e   \e[0m\n"
 printf "\e[1;92m Canal telegram: T.me/HACKGM\e[0m                                 \n"
