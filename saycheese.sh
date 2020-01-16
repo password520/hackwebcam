@@ -8,16 +8,18 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-𝙷𝙰𝙲𝙺 𝚆𝙴𝙱𝙲𝙰𝙼
-T.ME/HACKGM
-printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/hackwebcam
+printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
+
+printf "\n"
+
+
 }
 
 stop() {
 
 checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
 checkphp=$(ps aux | grep -o "php" | head -n1)
-checkssh=e$(ps aux | grep -o "ssh" | head -n1)
+checkssh=$(ps aux | grep -o "ssh" | head -n1)
 if [[ $checkngrok == *'ngrok'* ]]; then
 pkill -f -2 ngrok > /dev/null 2>&1
 killall -2 ngrok > /dev/null 2>&1
