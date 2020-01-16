@@ -11,9 +11,6 @@ banner() {
 𝙷𝙰𝙲𝙺 𝚆𝙴𝙱𝙲𝙰𝙼
 T.ME/HACKGM
 printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/hackwebcam
-printf "\n"
-
-
 }
 
 stop() {
