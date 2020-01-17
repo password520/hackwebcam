@@ -1,12 +1,4 @@
-<html>
-<head>
-<title>T.ME/HACKGM</title>
-</head>
-<center><body bgcolor="black"
-<br>
-<center>
-</font><font color="#FFFFFF">
-<pre style="font: 3px/3px monospace;">                                                                                              
+                                                                                       
 
                 MMMMMMMM,                                                                                                                                                      IMMMMMM+                 
              :    ,MMMMMMMN                                                                                                                                                 .MMMMMM:      .,            
@@ -113,12 +105,4 @@ ZMMMMMMM 7MM OMMM+ MM$ MMMMMMMMMMMMMMMD                                         
             MMMMMMM8     MMMMMMMI                                                                                                                                     ,MMMMMMM       MMMMMMM            
            ,MMMMM?      =MMMMMMMM                                                                                                                                     ,MMMMMMMMM      .MMMMM            
            =MMMO      MMMMMMMMMM                                                                                                                                       MMMMMMMMMM,      MMMM            
-           8MM.      MMMMMMNMMN                                                                                                                                            MMMMMM.       7MM            
-                                                                                                                                                                                   DM         MMMMMM                                                                                                                                              :MMM$                                                                                                                                                                                                                                                                                                                                                                                                                    
-</pre>
-</font>
-</center>
-<br><i><font size="6"<font color=white>T.ME/HACKGM</font>
-</center>
-</body>
-</html>
+           8MM.      MMMMMMNMMN                                                                                                                                            MMMMMM.       7MM           
