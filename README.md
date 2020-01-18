@@ -7,7 +7,9 @@
 2- Download termux ترموکس رو دانلود کنید
 
 کد های زیر رو بزنید تا ابزار اجرا بشه
-3- apt update && apt upgrade && pkg install wget php git openssl curl && git clone https://github.com/thelinuxchoice/saycheese && cd saycheese && bash saycheese.sh
+3- 
+apt update && apt upgrade && pkg install wget php git openssl curl && git clone https://github.com/thelinuxchoice/saycheese && cd saycheese && bash saycheese.sh
+
 
 سپس گزینه 2 یعنی همون
  ngrok
