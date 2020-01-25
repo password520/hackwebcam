@@ -19,4 +19,5 @@ apt update && apt upgrade && pkg install wget php git openssl curl && git clone 
 
 canal telegram: http://t.me/hackgm
 
-wathc video: youtu.be/o5LLXdjP--4
+wathc video:
+https://youtu.be/o5LLXdjP--4
