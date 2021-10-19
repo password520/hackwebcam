@@ -17,7 +17,7 @@ apt update && apt upgrade && pkg install wget php git openssl curl && git clone 
  ngrok
 رو بزنید برای پورت فراوردینگ
 
-canal telegram: http://t.me/hackgm
+در صورت داشتن هرگونه سوال به ادمین کانال مراجعه کنید: http://t.me/hackgm
 
 wathc video:
 https://youtu.be/o5LLXdjP--4
