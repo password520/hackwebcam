@@ -1,6 +1,9 @@
 # hackwebcam
 ( این نسخه از کار افتاده است ، جهت تهیه نسخه جدید به آیدی تلگرام زیر مراجعه کنید )
 t.me/anony_muos
+
+
+
 ابزار هک دوربین با ارسال لینک به قربانی - Camera hacking tool by sending link to target
 
 
