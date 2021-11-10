@@ -65,7 +65,7 @@ cat ip.txt >> saved.ip.txt
 checkfound() {
 
 printf "\n"
-printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Waiting targets,\e[0m\e[1;77m Press Ctrl + C to exit...\e[0m\n"
+printf "\e[41m not maked link!\e[0m\e[1;77m Revice New Version in the channel telegram:\e[1;93m T.ME/HACKGM\e[0m\n"
 while [ true ]; do
 
 
